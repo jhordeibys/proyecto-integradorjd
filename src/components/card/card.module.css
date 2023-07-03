@@ -1,0 +1,13 @@
+.container{
+    border-radius: 20px;
+    background-color: #16162c;
+    font-size: xx-small;
+     margin: 0%;
+}
+
+
+.img{
+    border-radius: 20px;
+    width: auto;
+    max-height: fit-content;
+}
